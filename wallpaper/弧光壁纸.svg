@@ -1,0 +1,2800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2560"
+   height="1440"
+   version="1.1"
+   viewBox="0 0 677.33 381"
+   id="svg1653"
+   sodipodi:docname="弧光壁纸.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/rain/Documents/Arc/弧光壁纸.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1655"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.16614248"
+     inkscape:cx="412.29673"
+     inkscape:cy="668.10128"
+     inkscape:window-width="1920"
+     inkscape:window-height="963"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1653" />
+  <defs
+     id="defs89">
+    <linearGradient
+       id="linearGradient318033">
+      <stop
+         stop-color="#bf7ed0"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#6facc9"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient77024">
+      <stop
+         stop-color="#01fecf"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#6bedda"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2658">
+      <stop
+         stop-color="#9b6ed3"
+         offset="0"
+         id="stop12" />
+      <stop
+         stop-color="#642bbb"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient93450"
+       x1="119.08"
+       x2="119.08"
+       y1="1.1586"
+       y2="283.23"
+       gradientTransform="translate(0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#091e2f"
+         offset="0"
+         id="stop17" />
+      <stop
+         stop-color="#0e3745"
+         offset=".50784"
+         id="stop19" />
+      <stop
+         stop-color="#356956"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1346"
+       x1="332.58"
+       x2="9.3392e-6"
+       y1="48.424"
+       y2="381"
+       gradientTransform="translate(7.1136e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#80cd48"
+         stop-opacity=".051546"
+         offset="0"
+         id="stop24" />
+      <stop
+         stop-color="#cdfaa8"
+         offset="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2660"
+       x1="191.19"
+       x2="329.6"
+       y1="321.48"
+       y2="232.99"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#1d8e6a"
+         offset="0"
+         id="stop29" />
+      <stop
+         stop-color="#0c4646"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient77026"
+       x1="222.07"
+       x2="240.14"
+       y1="298.28"
+       y2="277.12"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#78e79f"
+         offset="0"
+         id="stop34" />
+      <stop
+         stop-color="#3aa67e"
+         offset="1"
+         id="stop36" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient185970"
+       x1="181.28"
+       x2="380.96"
+       y1="326.14"
+       y2="200.2"
+       gradientTransform="scale(3.7795)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#063f3a"
+         offset="0"
+         id="stop39" />
+      <stop
+         stop-color="#061e19"
+         offset="1"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient276442"
+       x1="149"
+       x2="552.48"
+       y1="391.69"
+       y2="391.69"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0c4840"
+         offset="0"
+         id="stop44" />
+      <stop
+         stop-color="#063535"
+         offset="1"
+         id="stop46" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2784"
+       x1="-1.6469"
+       x2="678.9"
+       y1="410.58"
+       y2="410.58"
+       gradientTransform="translate(0 -.00019187)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#063635"
+         offset="0"
+         id="stop49" />
+      <stop
+         stop-color="#031111"
+         offset="1"
+         id="stop51" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient318021"
+       x1="164.82"
+       x2="280.53"
+       y1="296.34"
+       y2="212.6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#64c86c"
+         offset="0"
+         id="stop54" />
+      <stop
+         stop-color="#c4faa6"
+         offset="1"
+         id="stop56" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2193"
+       x1="222.07"
+       x2="240.14"
+       y1="298.28"
+       y2="277.12"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient77024" />
+    <linearGradient
+       id="linearGradient2223"
+       x1="191.19"
+       x2="329.6"
+       y1="321.48"
+       y2="232.99"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2658" />
+    <linearGradient
+       id="linearGradient2267"
+       x1="164.82"
+       x2="280.53"
+       y1="296.34"
+       y2="212.6"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient318033" />
+    <linearGradient
+       id="linearGradient2311"
+       x1="-1.6469"
+       x2="678.9"
+       y1="410.58"
+       y2="410.58"
+       gradientTransform="translate(973.3 -.00019187)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#350c6c"
+         offset="0"
+         id="stop62" />
+      <stop
+         stop-color="#040404"
+         offset="1"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2313"
+       x1="149"
+       x2="552.48"
+       y1="391.69"
+       y2="391.69"
+       gradientTransform="translate(973.3)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3d1474"
+         offset="0"
+         id="stop67" />
+      <stop
+         stop-color="#221542"
+         offset="1"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2315"
+       x1="181.28"
+       x2="380.96"
+       y1="326.14"
+       y2="200.2"
+       gradientTransform="translate(973.3)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#4e2585"
+         offset="0"
+         id="stop72" />
+      <stop
+         stop-color="#340b6b"
+         offset="1"
+         id="stop74" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2317"
+       x1="332.58"
+       x2="9.3392e-6"
+       y1="48.424"
+       y2="381"
+       gradientTransform="translate(973.3)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#498fdf"
+         stop-opacity="0"
+         offset="0"
+         id="stop77" />
+      <stop
+         stop-color="#6bedda"
+         offset="1"
+         id="stop79" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2319"
+       x1="119.08"
+       x2="119.08"
+       y1="1.1586"
+       y2="283.23"
+       gradientTransform="translate(973.3)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#040404"
+         offset="0"
+         id="stop82" />
+      <stop
+         stop-color="#3c1373"
+         offset=".50784"
+         id="stop84" />
+      <stop
+         stop-color="#9a6bd3"
+         offset="1"
+         id="stop86" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata91">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     x="9.3392e-6"
+     y="-4.6875e-7"
+     width="677.33"
+     height="381"
+     ry="3.1221"
+     fill="url(#linearGradient93450)"
+     style="paint-order:stroke fill markers"
+     id="rect93" />
+  <g
+     transform="translate(-372.6 131.85)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g201">
+    <circle
+       cx="733.29"
+       cy="128.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle95" />
+    <circle
+       cx="718.63"
+       cy="113.95"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle97" />
+    <circle
+       cx="744.55"
+       cy="107.44"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle99" />
+    <circle
+       cx="719.81"
+       cy="97.871"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle101" />
+    <circle
+       cx="751.32"
+       cy="90.933"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle103" />
+    <circle
+       cx="768.37"
+       cy="89.157"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle105" />
+    <circle
+       cx="790.52"
+       cy="69.862"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle107" />
+    <circle
+       cx="813.05"
+       cy="54.744"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle109" />
+    <circle
+       cx="788.11"
+       cy="38.295"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle111" />
+    <circle
+       cx="804.57"
+       cy="28.934"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle113" />
+    <circle
+       cx="845.13"
+       cy="35.548"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle115" />
+    <circle
+       cx="844.84"
+       cy="61.895"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle117" />
+    <circle
+       cx="870.6"
+       cy="68.543"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle119" />
+    <circle
+       cx="878.38"
+       cy="55.381"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle121" />
+    <circle
+       cx="903.46"
+       cy="68.331"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle123" />
+    <circle
+       cx="926.2"
+       cy="53.084"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle125" />
+    <circle
+       cx="898.2"
+       cy="36.782"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle127" />
+    <circle
+       cx="950.17"
+       cy="53.538"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle129" />
+    <circle
+       cx="951.76"
+       cy="69.638"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle131" />
+    <circle
+       cx="965.31"
+       cy="39.135"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle133" />
+    <circle
+       cx="1013.5"
+       cy="34.603"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle135" />
+    <circle
+       cx="1049.1"
+       cy="115.76"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle137" />
+    <circle
+       cx="693.93"
+       cy="114.67"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle139" />
+    <circle
+       cx="697.44"
+       cy="82.372"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle141" />
+    <circle
+       cx="718.33"
+       cy="77.512"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle143" />
+    <circle
+       cx="694.96"
+       cy="64.582"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle145" />
+    <circle
+       cx="735.96"
+       cy="63.895"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle147" />
+    <circle
+       cx="722.35"
+       cy="43.398"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle149" />
+    <circle
+       cx="708.76"
+       cy="42.618"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle151" />
+    <circle
+       cx="766.19"
+       cy="37.389"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle153" />
+    <circle
+       cx="774.56"
+       cy="149.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle155" />
+    <circle
+       cx="856.27"
+       cy="150.36"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle157" />
+    <circle
+       cx="887.78"
+       cy="143.42"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle159" />
+    <circle
+       cx="904.83"
+       cy="141.64"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle161" />
+    <circle
+       cx="926.98"
+       cy="122.35"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle163" />
+    <circle
+       cx="924.57"
+       cy="90.782"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle165" />
+    <circle
+       cx="941.03"
+       cy="81.421"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle167" />
+    <circle
+       cx="833.91"
+       cy="134.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle169" />
+    <circle
+       cx="808.04"
+       cy="151.73"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle171" />
+    <circle
+       cx="798.98"
+       cy="142.69"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle173" />
+    <circle
+       cx="854.79"
+       cy="130"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle175" />
+    <circle
+       cx="831.43"
+       cy="117.07"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle177" />
+    <circle
+       cx="872.43"
+       cy="116.38"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle179" />
+    <circle
+       cx="858.81"
+       cy="95.885"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle181" />
+    <circle
+       cx="845.22"
+       cy="95.105"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle183" />
+    <circle
+       cx="902.65"
+       cy="89.876"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle185" />
+    <circle
+       cx="801.42"
+       cy="90.548"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle187" />
+    <g
+       transform="translate(454.54 527.83)"
+       id="g199">
+      <circle
+         cx="480.46"
+         cy="-374.78"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle189" />
+      <circle
+         cx="528.28"
+         cy="-377.08"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle191" />
+      <circle
+         cx="500.29"
+         cy="-393.38"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle193" />
+      <circle
+         cx="552.25"
+         cy="-376.63"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle195" />
+      <circle
+         cx="567.4"
+         cy="-391.03"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle197" />
+    </g>
+  </g>
+  <rect
+     x="9.3392e-6"
+     y="-4.6875e-7"
+     width="677.33"
+     height="381"
+     ry="3.1221"
+     fill="url(#linearGradient1346)"
+     style="paint-order:stroke fill markers"
+     id="rect203" />
+  <g
+     transform="translate(76.207 101.83)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g267">
+    <circle
+       cx="176.33"
+       cy="158.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle205" />
+    <circle
+       cx="167.28"
+       cy="149.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle207" />
+    <circle
+       cx="169.72"
+       cy="97.683"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle209" />
+    <circle
+       cx="147.97"
+       cy="98.919"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle211" />
+    <circle
+       cx="131.41"
+       cy="89.555"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle213" />
+    <circle
+       cx="122.9"
+       cy="114.96"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle215" />
+    <circle
+       cx="90.821"
+       cy="96.034"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle217" />
+    <circle
+       cx="91.241"
+       cy="122.01"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle219" />
+    <circle
+       cx="65.393"
+       cy="128.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle221" />
+    <circle
+       cx="57.692"
+       cy="115.7"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle223" />
+    <circle
+       cx="68.449"
+       cy="144.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle225" />
+    <circle
+       cx="84.544"
+       cy="151.97"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle227" />
+    <circle
+       cx="117.09"
+       cy="165.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle229" />
+    <circle
+       cx="143.67"
+       cy="158.6"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle231" />
+    <circle
+       cx="140.23"
+       cy="142.93"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle233" />
+    <circle
+       cx="124.38"
+       cy="135.63"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle235" />
+    <circle
+       cx="145.01"
+       cy="130.29"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle237" />
+    <circle
+       cx="151.1"
+       cy="171.65"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle239" />
+    <circle
+       cx="170.9"
+       cy="190.05"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle241" />
+    <circle
+       cx="117.84"
+       cy="191.31"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle243" />
+    <circle
+       cx="86.074"
+       cy="172.92"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle245" />
+    <circle
+       cx="77.591"
+       cy="198.35"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle247" />
+    <circle
+       cx="60.86"
+       cy="188.55"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle249" />
+    <circle
+       cx="39.276"
+       cy="189.98"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle251" />
+    <circle
+       cx="9.3573"
+       cy="163.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle253" />
+    <circle
+       cx="63.508"
+       cy="157.56"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle255" />
+    <circle
+       cx="41.457"
+       cy="137.71"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle257" />
+    <circle
+       cx="32.715"
+       cy="129"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle259" />
+    <circle
+       cx="10.063"
+       cy="113.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle261" />
+    <circle
+       cx="37.593"
+       cy="97.19"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle263" />
+    <circle
+       cx="6.5006"
+       cy="145.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle265" />
+  </g>
+  <g
+     transform="translate(3.2267 401.91)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g451">
+    <circle
+       cx="335.37"
+       cy="-301.6"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle269" />
+    <circle
+       cx="320.71"
+       cy="-316.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle271" />
+    <circle
+       cx="346.63"
+       cy="-322.72"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle273" />
+    <circle
+       cx="321.9"
+       cy="-332.29"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle275" />
+    <circle
+       cx="353.41"
+       cy="-339.23"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle277" />
+    <circle
+       cx="370.46"
+       cy="-341.01"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle279" />
+    <circle
+       cx="392.61"
+       cy="-360.3"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle281" />
+    <circle
+       cx="415.14"
+       cy="-375.42"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle283" />
+    <circle
+       cx="390.2"
+       cy="-391.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle285" />
+    <circle
+       cx="406.66"
+       cy="-401.23"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle287" />
+    <circle
+       cx="447.22"
+       cy="-394.62"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle289" />
+    <circle
+       cx="446.93"
+       cy="-368.27"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle291" />
+    <circle
+       cx="472.69"
+       cy="-361.62"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle293" />
+    <circle
+       cx="480.46"
+       cy="-374.78"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle295" />
+    <circle
+       cx="505.55"
+       cy="-361.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle297" />
+    <circle
+       cx="528.28"
+       cy="-377.08"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle299" />
+    <circle
+       cx="500.29"
+       cy="-393.38"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle301" />
+    <circle
+       cx="552.25"
+       cy="-376.63"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle303" />
+    <circle
+       cx="553.84"
+       cy="-360.53"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle305" />
+    <circle
+       cx="567.4"
+       cy="-391.03"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle307" />
+    <circle
+       cx="615.63"
+       cy="-395.56"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle309" />
+    <circle
+       cx="651.17"
+       cy="-314.41"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle311" />
+    <circle
+       cx="296.02"
+       cy="-315.5"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle313" />
+    <circle
+       cx="299.53"
+       cy="-347.79"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle315" />
+    <circle
+       cx="273.66"
+       cy="-330.92"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle317" />
+    <circle
+       cx="264.61"
+       cy="-339.96"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle319" />
+    <circle
+       cx="320.41"
+       cy="-352.65"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle321" />
+    <circle
+       cx="297.05"
+       cy="-365.58"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle323" />
+    <circle
+       cx="338.05"
+       cy="-366.27"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle325" />
+    <circle
+       cx="324.43"
+       cy="-386.77"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle327" />
+    <circle
+       cx="310.84"
+       cy="-387.55"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle329" />
+    <circle
+       cx="368.27"
+       cy="-392.78"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle331" />
+    <circle
+       cx="267.05"
+       cy="-392.1"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle333" />
+    <circle
+       cx="245.3"
+       cy="-390.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle335" />
+    <circle
+       cx="228.74"
+       cy="-400.23"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle337" />
+    <circle
+       cx="220.23"
+       cy="-374.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle339" />
+    <circle
+       cx="188.15"
+       cy="-393.75"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle341" />
+    <circle
+       cx="188.57"
+       cy="-367.78"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle343" />
+    <circle
+       cx="162.72"
+       cy="-360.88"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle345" />
+    <circle
+       cx="155.02"
+       cy="-374.08"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle347" />
+    <circle
+       cx="165.78"
+       cy="-345.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle349" />
+    <circle
+       cx="181.87"
+       cy="-337.82"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle351" />
+    <circle
+       cx="214.42"
+       cy="-324.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle353" />
+    <circle
+       cx="241"
+       cy="-331.19"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle355" />
+    <circle
+       cx="237.56"
+       cy="-346.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle357" />
+    <circle
+       cx="221.71"
+       cy="-354.16"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle359" />
+    <circle
+       cx="242.34"
+       cy="-359.5"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle361" />
+    <circle
+       cx="248.43"
+       cy="-318.14"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle363" />
+    <circle
+       cx="268.23"
+       cy="-299.73"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle365" />
+    <circle
+       cx="215.17"
+       cy="-298.47"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle367" />
+    <circle
+       cx="183.4"
+       cy="-316.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle369" />
+    <circle
+       cx="174.92"
+       cy="-291.44"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle371" />
+    <circle
+       cx="158.19"
+       cy="-301.24"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle373" />
+    <circle
+       cx="136.61"
+       cy="-299.81"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle375" />
+    <circle
+       cx="106.69"
+       cy="-326.22"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle377" />
+    <circle
+       cx="160.84"
+       cy="-332.23"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle379" />
+    <circle
+       cx="138.79"
+       cy="-352.08"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle381" />
+    <circle
+       cx="130.05"
+       cy="-360.78"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle383" />
+    <circle
+       cx="107.39"
+       cy="-375.93"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle385" />
+    <circle
+       cx="134.92"
+       cy="-392.6"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle387" />
+    <circle
+       cx="82.817"
+       cy="-375.58"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle389" />
+    <circle
+       cx="68.064"
+       cy="-390.41"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle391" />
+    <circle
+       cx="19.707"
+       cy="-395.26"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle393" />
+    <circle
+       cx="81.696"
+       cy="-359.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle395" />
+    <circle
+       cx="82.922"
+       cy="-338.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle397" />
+    <circle
+       cx="103.83"
+       cy="-343.89"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle399" />
+    <circle
+       cx="49.848"
+       cy="-352.66"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle401" />
+    <circle
+       cx="79.472"
+       cy="-305.26"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle403" />
+    <circle
+       cx="376.65"
+       cy="-280.31"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle405" />
+    <circle
+       cx="458.36"
+       cy="-279.81"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle407" />
+    <circle
+       cx="489.87"
+       cy="-286.74"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle409" />
+    <circle
+       cx="506.92"
+       cy="-288.52"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle411" />
+    <circle
+       cx="529.07"
+       cy="-307.82"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle413" />
+    <circle
+       cx="526.66"
+       cy="-339.38"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle415" />
+    <circle
+       cx="543.12"
+       cy="-348.74"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle417" />
+    <circle
+       cx="435.99"
+       cy="-295.31"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle419" />
+    <circle
+       cx="410.12"
+       cy="-278.43"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle421" />
+    <circle
+       cx="401.07"
+       cy="-287.47"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle423" />
+    <circle
+       cx="456.88"
+       cy="-300.17"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle425" />
+    <circle
+       cx="433.51"
+       cy="-313.1"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle427" />
+    <circle
+       cx="474.51"
+       cy="-313.78"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle429" />
+    <circle
+       cx="460.9"
+       cy="-334.28"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle431" />
+    <circle
+       cx="447.3"
+       cy="-335.06"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle433" />
+    <circle
+       cx="504.74"
+       cy="-340.29"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle435" />
+    <circle
+       cx="403.51"
+       cy="-339.62"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle437" />
+    <g
+       transform="translate(56.628 97.663)"
+       id="g449">
+      <circle
+         cx="480.46"
+         cy="-374.78"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle439" />
+      <circle
+         cx="528.28"
+         cy="-377.08"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle441" />
+      <circle
+         cx="500.29"
+         cy="-393.38"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle443" />
+      <circle
+         cx="552.25"
+         cy="-376.63"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle445" />
+      <circle
+         cx="567.4"
+         cy="-391.03"
+         r=".67603"
+         opacity=".7"
+         style="paint-order:stroke markers fill"
+         id="circle447" />
+    </g>
+  </g>
+  <g
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g529">
+    <circle
+       cx="671.57"
+       cy="99.248"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle453" />
+    <circle
+       cx="662.52"
+       cy="90.206"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle455" />
+    <circle
+       cx="664.96"
+       cy="38.062"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle457" />
+    <circle
+       cx="643.22"
+       cy="39.298"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle459" />
+    <circle
+       cx="626.65"
+       cy="29.934"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle461" />
+    <circle
+       cx="618.14"
+       cy="55.337"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle463" />
+    <circle
+       cx="586.06"
+       cy="36.413"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle465" />
+    <circle
+       cx="586.48"
+       cy="62.389"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle467" />
+    <circle
+       cx="560.64"
+       cy="69.283"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle469" />
+    <circle
+       cx="552.94"
+       cy="56.082"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle471" />
+    <circle
+       cx="563.69"
+       cy="84.951"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle473" />
+    <circle
+       cx="579.79"
+       cy="92.349"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle475" />
+    <circle
+       cx="612.33"
+       cy="105.59"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle477" />
+    <circle
+       cx="638.91"
+       cy="98.975"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle479" />
+    <circle
+       cx="635.47"
+       cy="83.305"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle481" />
+    <circle
+       cx="619.62"
+       cy="76.008"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle483" />
+    <circle
+       cx="640.26"
+       cy="70.665"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle485" />
+    <circle
+       cx="646.34"
+       cy="112.02"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle487" />
+    <circle
+       cx="666.14"
+       cy="130.43"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle489" />
+    <circle
+       cx="613.08"
+       cy="131.69"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle491" />
+    <circle
+       cx="581.32"
+       cy="113.3"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle493" />
+    <circle
+       cx="572.83"
+       cy="138.73"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle495" />
+    <circle
+       cx="556.1"
+       cy="128.93"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle497" />
+    <circle
+       cx="534.52"
+       cy="130.35"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle499" />
+    <circle
+       cx="504.6"
+       cy="103.95"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle501" />
+    <circle
+       cx="558.75"
+       cy="97.936"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle503" />
+    <circle
+       cx="536.7"
+       cy="78.084"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle505" />
+    <circle
+       cx="527.96"
+       cy="69.382"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle507" />
+    <circle
+       cx="505.31"
+       cy="54.235"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle509" />
+    <circle
+       cx="532.84"
+       cy="37.569"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle511" />
+    <circle
+       cx="480.73"
+       cy="54.587"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle513" />
+    <circle
+       cx="465.98"
+       cy="39.759"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle515" />
+    <circle
+       cx="417.62"
+       cy="34.907"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle517" />
+    <circle
+       cx="479.61"
+       cy="70.333"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle519" />
+    <circle
+       cx="480.84"
+       cy="91.293"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle521" />
+    <circle
+       cx="501.74"
+       cy="86.274"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle523" />
+    <circle
+       cx="447.76"
+       cy="77.5"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle525" />
+    <circle
+       cx="477.39"
+       cy="124.91"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle527" />
+  </g>
+  <g
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g593">
+    <circle
+       cx="176.33"
+       cy="158.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle531" />
+    <circle
+       cx="167.28"
+       cy="149.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle533" />
+    <circle
+       cx="169.72"
+       cy="97.683"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle535" />
+    <circle
+       cx="147.97"
+       cy="98.919"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle537" />
+    <circle
+       cx="131.41"
+       cy="89.555"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle539" />
+    <circle
+       cx="122.9"
+       cy="114.96"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle541" />
+    <circle
+       cx="90.821"
+       cy="96.034"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle543" />
+    <circle
+       cx="91.241"
+       cy="122.01"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle545" />
+    <circle
+       cx="65.393"
+       cy="128.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle547" />
+    <circle
+       cx="57.692"
+       cy="115.7"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle549" />
+    <circle
+       cx="68.449"
+       cy="144.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle551" />
+    <circle
+       cx="84.544"
+       cy="151.97"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle553" />
+    <circle
+       cx="117.09"
+       cy="165.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle555" />
+    <circle
+       cx="143.67"
+       cy="158.6"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle557" />
+    <circle
+       cx="140.23"
+       cy="142.93"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle559" />
+    <circle
+       cx="124.38"
+       cy="135.63"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle561" />
+    <circle
+       cx="145.01"
+       cy="130.29"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle563" />
+    <circle
+       cx="151.1"
+       cy="171.65"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle565" />
+    <circle
+       cx="170.9"
+       cy="190.05"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle567" />
+    <circle
+       cx="117.84"
+       cy="191.31"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle569" />
+    <circle
+       cx="86.074"
+       cy="172.92"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle571" />
+    <circle
+       cx="77.591"
+       cy="198.35"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle573" />
+    <circle
+       cx="60.86"
+       cy="188.55"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle575" />
+    <circle
+       cx="39.276"
+       cy="189.98"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle577" />
+    <circle
+       cx="9.3573"
+       cy="163.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle579" />
+    <circle
+       cx="63.508"
+       cy="157.56"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle581" />
+    <circle
+       cx="41.457"
+       cy="137.71"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle583" />
+    <circle
+       cx="32.715"
+       cy="129"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle585" />
+    <circle
+       cx="10.063"
+       cy="113.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle587" />
+    <circle
+       cx="37.593"
+       cy="97.19"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle589" />
+    <circle
+       cx="6.5006"
+       cy="145.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle591" />
+  </g>
+  <g
+     transform="translate(81.207 114.71)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g609">
+    <circle
+       cx="-14.513"
+       cy="114.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle595" />
+    <circle
+       cx="-29.266"
+       cy="99.38"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle597" />
+    <circle
+       cx="-77.623"
+       cy="94.528"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle599" />
+    <circle
+       cx="-15.634"
+       cy="129.95"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle601" />
+    <circle
+       cx="-14.408"
+       cy="150.91"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle603" />
+    <circle
+       cx="-47.482"
+       cy="137.12"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle605" />
+    <circle
+       cx="-17.858"
+       cy="184.53"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle607" />
+  </g>
+  <g
+     transform="translate(172.17 6.1702)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g673">
+    <circle
+       cx="176.33"
+       cy="158.87"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle611" />
+    <circle
+       cx="167.28"
+       cy="149.83"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle613" />
+    <circle
+       cx="169.72"
+       cy="97.683"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle615" />
+    <circle
+       cx="147.97"
+       cy="98.919"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle617" />
+    <circle
+       cx="131.41"
+       cy="89.555"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle619" />
+    <circle
+       cx="122.9"
+       cy="114.96"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle621" />
+    <circle
+       cx="90.821"
+       cy="96.034"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle623" />
+    <circle
+       cx="91.241"
+       cy="122.01"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle625" />
+    <circle
+       cx="65.393"
+       cy="128.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle627" />
+    <circle
+       cx="57.692"
+       cy="115.7"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle629" />
+    <circle
+       cx="68.449"
+       cy="144.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle631" />
+    <circle
+       cx="84.544"
+       cy="151.97"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle633" />
+    <circle
+       cx="117.09"
+       cy="165.21"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle635" />
+    <circle
+       cx="143.67"
+       cy="158.6"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle637" />
+    <circle
+       cx="140.23"
+       cy="142.93"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle639" />
+    <circle
+       cx="124.38"
+       cy="135.63"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle641" />
+    <circle
+       cx="145.01"
+       cy="130.29"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle643" />
+    <circle
+       cx="151.1"
+       cy="171.65"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle645" />
+    <circle
+       cx="170.9"
+       cy="190.05"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle647" />
+    <circle
+       cx="117.84"
+       cy="191.31"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle649" />
+    <circle
+       cx="86.074"
+       cy="172.92"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle651" />
+    <circle
+       cx="77.591"
+       cy="198.35"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle653" />
+    <circle
+       cx="60.86"
+       cy="188.55"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle655" />
+    <circle
+       cx="39.276"
+       cy="189.98"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle657" />
+    <circle
+       cx="9.3573"
+       cy="163.57"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle659" />
+    <circle
+       cx="63.508"
+       cy="157.56"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle661" />
+    <circle
+       cx="41.457"
+       cy="137.71"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle663" />
+    <circle
+       cx="32.715"
+       cy="129"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle665" />
+    <circle
+       cx="10.063"
+       cy="113.86"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle667" />
+    <circle
+       cx="37.593"
+       cy="97.19"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle669" />
+    <circle
+       cx="6.5006"
+       cy="145.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle671" />
+  </g>
+  <g
+     transform="translate(-330.25 -76.246)"
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g695">
+    <circle
+       cx="731.55"
+       cy="209.85"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle675" />
+    <circle
+       cx="722.5"
+       cy="200.81"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle677" />
+    <circle
+       cx="724.94"
+       cy="148.67"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle679" />
+    <circle
+       cx="703.2"
+       cy="149.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle681" />
+    <circle
+       cx="686.63"
+       cy="140.54"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle683" />
+    <circle
+       cx="698.89"
+       cy="209.58"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle685" />
+    <circle
+       cx="695.45"
+       cy="193.91"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle687" />
+    <circle
+       cx="700.24"
+       cy="181.27"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle689" />
+    <circle
+       cx="706.32"
+       cy="222.63"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle691" />
+    <circle
+       cx="726.12"
+       cy="241.04"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle693" />
+  </g>
+  <g
+     fill="#fff"
+     fill-rule="evenodd"
+     id="g739">
+    <circle
+       cx="678.12"
+       cy="165.94"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle697" />
+    <circle
+       cx="646.04"
+       cy="147.02"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle699" />
+    <circle
+       cx="646.46"
+       cy="172.99"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle701" />
+    <circle
+       cx="620.62"
+       cy="179.89"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle703" />
+    <circle
+       cx="612.92"
+       cy="166.69"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle705" />
+    <circle
+       cx="623.67"
+       cy="195.56"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle707" />
+    <circle
+       cx="639.77"
+       cy="202.95"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle709" />
+    <circle
+       cx="672.31"
+       cy="216.2"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle711" />
+    <circle
+       cx="679.6"
+       cy="186.61"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle713" />
+    <circle
+       cx="673.06"
+       cy="242.3"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle715" />
+    <circle
+       cx="641.3"
+       cy="223.9"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle717" />
+    <circle
+       cx="632.81"
+       cy="249.33"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle719" />
+    <circle
+       cx="616.08"
+       cy="239.53"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle721" />
+    <circle
+       cx="594.5"
+       cy="240.96"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle723" />
+    <circle
+       cx="564.58"
+       cy="214.55"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle725" />
+    <circle
+       cx="618.73"
+       cy="208.54"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle727" />
+    <circle
+       cx="596.68"
+       cy="188.69"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle729" />
+    <circle
+       cx="587.94"
+       cy="179.99"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle731" />
+    <circle
+       cx="565.29"
+       cy="164.84"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle733" />
+    <circle
+       cx="592.82"
+       cy="148.17"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle735" />
+    <circle
+       cx="561.72"
+       cy="196.88"
+       r=".67603"
+       opacity=".7"
+       style="paint-order:stroke markers fill"
+       id="circle737" />
+  </g>
+  <g
+     id="g747">
+    <path
+       transform="scale(.26458)"
+       d="m0 1217.1v222.9h2560v-348.85l-9.7129-5.0742-28.189-19.791-49.197-61.285-8.0156 2.8301-30.572-12.09-25.356 4.9512-26.039-22.568-79.406 3.5059-48.644-46.961-75.965-4.5898-28.873-36.168-55.371-67.062-90.693-28.102-42.436-43.711-53.139 2.6738-68.447-33.223-130.6 113.99-33.814 29.518-9.7324-4.123-27.59-8.0176-48.068 21.592-63.408-13.176-89.395 22.486-64.432-35.926-3.5449-4.9238-15.881-7.9023-86.404 6.4394-45.658-15.998-29.664 9.9355-37.537-17.328-10.678-39.658-14.644 32.666-32.314-25.322-1.1992 34.885-29.522-25.367-5.6054 5.2578-16.119 10.658-4.9687-1.75-55.313-0.52735-54.168-10.791-44.576-49.43-39.244 24.994-2.1562 10.848-15.67 15.914-12.117 18.844-0.70508 5.0254-20.814 30.125-2.2754 5.6094-52.393 47.135-22.771-10.5-19.588 15.16-101.04 12.758-80.123 76.98-88.463 20.873-77.992 62.225 0.57617-6.1153-25.555-3.5293-25.969 12.004-48.205 9.1153-20.51-10.975-30.359 17.248-46.84 5.666-49.236 20.178-48.949 57.682-54.717 28.168z"
+       fill="url(#linearGradient185970)"
+       id="path741" />
+    <path
+       d="m33.162 381h543.42l-31.032-22.203-11.675 0.67178-19.228-9.6356-21.493-8.4031-11.767 1.8252-15.736 11.912-15.922-14.504-5.5485-0.018-7.2378-8.3302-16.105 12.316-4.7718-5.6048-10.662 0.30179-6.1066-10.146-19.606 2.7507-30.474-23.436-26.363 22.984-40.286-2.1151-11.223 16.552-34.911-23.577-24.908 8.4599-10.582-6.2208-17.26 13.146-62.632 10.385-7.9835-3.4143-17.087 6.4874-19.84-9.1643-43.202 20.806z"
+       fill="url(#linearGradient276442)"
+       id="path743" />
+    <path
+       d="m341.8 327.1-14.756 9.4149-6.6704-2.1353-16.456 7.6543-28.07-2.3812-7.3629-7.5086-11.963 4.0334-9.6867-6.4477-32.831 27.795-7.8838 0.30956-27 19.933-13.642-6.5123-10.344 1.5141-27.314-11.257-19.406 8.3592-28.079-10.342-33.582 7.7391-21.076-13.321-25.68 1.0325v26.025h451.07l-0.22788-0.10541-18.629-2.6443-25.077-12.132-19.521-4.4447-11.881-10.568-15.25-3.6861zm331.78 17.325-26.412 13.379-10.692-8.9256-20.901 12.893-31.901 4.4804-18.736 14.753h112.4v-3.1223-5.3e-4 -33.367zm1.5637 36.44c-0.0978 0.0303-0.19794 0.0563-0.29972 0.077-0.10181 0.0207-0.20532 0.0364-0.31057 0.047 0.10525-0.0106 0.20876-0.0269 0.31057-0.0475 0.10178-0.0207 0.2019-0.0462 0.29972-0.0765z"
+       fill="url(#linearGradient2784)"
+       id="path745" />
+  </g>
+  <path
+     d="m325.53 225.95-0.30379 0.93901 0.55073 0.5357 0.23656-0.98175z"
+     fill="none"
+     id="path749" />
+  <path
+     d="m62.419 332.25-0.33938 0.59907 1.426 5.6745 12.084 0.0735-7.0015-5.1299 1.4975 2.5143z"
+     fill="#c0c8ea"
+     id="path751" />
+  <g
+     fill="url(#linearGradient318021)"
+     id="g795">
+    <path
+       d="m108.5 281.78-4.3028 3.3942 4.4103 0.14429 1.2536 5.1729 3.1898-1.4065 4.4283 6.0196 2.58-9.9031 5.0451 5.1564 2.5472-5.0343 1.5776-0.74421 2.5326 5.1975 3.7432-5.0796 5.2739 0.82976-1.334-2.5458 0.70478-0.89153-2.2786-3.8323 1.4107-6.2466-0.80982 0.34592-0.42873-0.62969-0.0137-1.9265-1.2815 2.1709-0.30041 2.1604-2.0021-4.6017-0.0861-1.6074-7.5102 6.4035-8.8826-0.22744-1.9418 2.5252-6.2561 3.51z"
+       id="path753" />
+    <path
+       d="m142.26 267.51 1.1274 4.0354-0.40674 6.5834 2.8845 7.7938 0.75426-11.082 1.4921 1.3044 2.8941-0.098 10.218-11.941-4.3088 1.5503-3.1925 1.7406-2.4165-2.1933-4.8306 2.0544z"
+       id="path755" />
+    <path
+       d="m165.76 279.45-6.9283 6.4349 1.5644 0.17358-2.6012 2.4409 10.502-0.67423 3.9629-5.2734-0.47951-1.0389-0.0901-1.0402 0.49307-0.82217-0.94473-0.13887-0.8511-2.574-1.1779 2.3562z"
+       id="path757" />
+    <path
+       d="m49.007 322.12-5.3728 5.4649-0.5399 1.3328-6.7353-2.7518-20.723 8.5063-6.0239 9.9864 16.316 0.71804 7.0099-7.7979 13.856-5.7522 12.985 0.0261 8.3034-3.0686z"
+       id="path759" />
+    <path
+       d="m114.79 321.31-2.1216 7.5856 13.119 0.26414 1.8852 1.1788 1.8199 3.5585 0.10138-2.231 0.60727-0.37559 0.82461-6.5547 8.1621 6.2281 2.2884-6.7168 1.3218-0.77184 5.4866 2.0179-0.27005-0.99771 0.76494-0.16864 2.6684 2.607-0.0656-6.392 6.2568-1.7848 1.0968-7.7718-1.5837-4.3912-0.14029-1.6714-1.11 1.2007-0.85727-0.61398-0.49326-1.1733-3.0132 6.083 2.5023 1.1178-5.0523 2.0921-3.4065-3.3705 1.7568 5.4999-4.2359 0.99615-2.2297-6.5877-2.2351 3.4445-1.753 0.84106-1.1559 2.9487-6.9466 0.0171-4.3886 2.5249-6.2322-0.0652-1.148 1.2958z"
+       id="path761" />
+    <path
+       d="m180.88 262.97-4.4687 6.5719 5.8366-0.70006 3.4164 4.8696 1.9711-4.9228 7.5091 0.88824-0.22502-3.3884 4.6742-0.15732-4.3719-3.5937z"
+       id="path763" />
+    <path
+       d="m211.3 228.21-10.091 22.094 9.3427-6.6868z"
+       id="path765" />
+    <path
+       d="m213.74 263.76-2.4276 2.0885-7.5145 10.926 7.0984-1.393 1.811-3.0752 1.0928-0.99168-0.0783 2.8716 2.6944-7.4921z"
+       id="path767" />
+    <path
+       d="m217.68 232 0.89791 0.97749-0.12549 4.7509 2.8761 3.0487-13.414 8.2804-0.46276 9.8287 2.9555-1.2923 15.12-11.808-2.8074 10.934-7.9095 3.1313 9.4808 3.6868 9.8512-4.1009 9.4037 7.4537-7.4318 4.1992 4.0296 6.0325 2.9024-5.8308 5.9686 3.5967 14.971-0.76944-6.1426-6.2467 11.219-11.766-17.049 2.8858 3.3926-10.438-24.917-9.226-2.9285-4.255-1.9965-0.11131-5.4914-3.2386z"
+       id="path769" />
+    <path
+       d="m258.48 278.37-9.669 6.8349 0.15175 17.231 4.3915 4.5076 3.4839 12.763 1.5356-11.86 2.0162-5.6375-4.3606-3.8561-0.32517-8.085 5.2755-6.5415z"
+       id="path771" />
+    <path
+       d="m273.68 313.49-0.55599 0.75906 1.1917 0.24894-0.42212 0.90738-8.9481 7.3665 5.2836 9.3718 3.9975 3.6106 0.40757-6.6312 1.9204-1.9845 0.68554-2.2311-0.80412-1.4233 2.2583-1.8523-3.9731-6.035 0.39808-1.2204-0.74064-0.57358-0.10732-0.80149z"
+       id="path773" />
+    <path
+       d="m368.49 234.19 3.3919 2.781 3.1137 6.9758 2.1318-3.3234 8.2578 2.4811 2.0346-0.0343 3.0778 6.7664 7.9016-6.2034-4.146-5.639z"
+       id="path775" />
+    <path
+       d="m405.55 232.78 12.259 9.5026 3.0634 11.09-3.5105 7.2376-0.92873 5.1956 10.903-4.5144s8.3899-1.8107 8.5339-1.8665c0.14398-0.0557 21.634-26.179 21.634-26.179l10.704-5.4401 0.0999-7.4609 4.2932-11.501 10.426-13.882-39.707 34.695-7.122-0.76772-2.6736 3.8897-6.5678 0.0377-2.9903 3.5068-8.2081-1.5778-0.15843-0.754z"
+       id="path777" />
+    <path
+       d="m471.53 262.97 9.0467 6.1597 5.8413 13.315 0.60066 9.9564 4.9713-0.35984 6e-3 -4.9779 5.8174-3.5747-4.2608-8.8165-0.0836-5.7399 2.3711-2.8429-0.96643-7.5221-7.6622-3.0311-2.3335 5.768-8.5557-1.3878-0.59542 2.7405z"
+       id="path779" />
+    <path
+       d="m470.65 282.26 2.676 17.084 5.5221 4.8477 10.517-9.5192z"
+       id="path781" />
+    <path
+       d="m489.98 304.01-1.9595 2.9118-1.627 7.9676 2.7034 8.1685 7.2264-7.9634 5.1495-0.90424-7.7903-3.9527z"
+       id="path783" />
+    <path
+       d="m522.48 298.67-0.18067 1.4573-13.635 6.659 4.3318 2.0245 5.9961-6.4613 7.3735-0.22352-0.98972-6.1898z"
+       id="path785" />
+    <path
+       d="m525.41 266.43-18.862 19.661 6.6079 13.626 1.5133-7.6635 1.9081 0.53783 1.9529-12.073z"
+       id="path787" />
+    <path
+       d="m579.35 286.72-5.5239 5.5105 0.46788 5.4499-2.9682 3.7215 10.426 6.155-3e-3 5.2443 6.099-7.6818 5.619-1.5185-11.145-6.4152z"
+       id="path789" />
+    <path
+       d="m592.7 311.42 11.93 3.4134 22.596 14.666 9.9167-0.1224-1.8079-3.3856-7.261 0.0582-22.054-14.506z"
+       id="path791" />
+    <path
+       d="m630.63 280.93 7.1657 2.6121 0.7052-0.42224 7.5138 8.6916 1.1797-1.5671 0.67654-0.0595 1.6037 6.4384 3.4626 5.9809 5.0103 0.19074-3.4566 9.7533 5.0222-10.484 7.343-4.4478-5.4948-3.7763-5.2788-7.8035-3.3537 2.6938-4.6702-11.937z"
+       id="path793" />
+  </g>
+  <g
+     transform="translate(0 -27.167)"
+     fill="url(#linearGradient2660)"
+     id="g839">
+    <path
+       d="m61.988 315.75-3.2488 6.7815 24.017-6.4631 4.6068 6.0083 5.8725-4.579 2.199 4.3741 3.1513-2.2451 1.7984 2.1854 2.5885 0.34627-0.86194-1.2315-0.251-3.0931-9.3184-2.8859 0.15258-1.618-6.7618-0.93384-6.8708 3.1759-12.754 2.4117z"
+       id="path797" />
+    <path
+       d="m79.621 328.47-2.1919-0.27769-8.2223 4.8156-11.147 5.5158-5.737 4.3593 7.1605 1.5308 6.6539 5.5172 4.1294-3.6591 7.7644 3.8723 10.41 0.221-12.624-9.5886-1.0129-1.4897 1.4294-1.054 0.1198-0.96447-1.9594-1.215 0.53434-0.7061z"
+       id="path799" />
+    <path
+       d="m112.18 324.27-6.1242 4.312 3.8602 8.1762 0.32248 9.3031 4.1905-4.4539 6.8782-3.9309-2.2182-9.1739z"
+       id="path801" />
+    <path
+       d="m51.291 348.13-0.18957 1.8585 16.981 5.9687-8.3034 3.0686 2.8778 2.077-17.075 2.6702 18.955 9.1833 16.176-5.3581 4.447-5.3924 19.791 3.6693 5.587 5.7684 3.201-1.3353 1.7741-5.0087-5.4784-11.693 2.5481-4.6696-2.3734-2.2002-2.7679 13.664-14.166-6.4293-30.15-1.7534z"
+       id="path803" />
+    <path
+       d="m159.66 325.34-1.1122 3.4758 2.9864 3.8087-0.47146 3.6459-2.3193 1.8748 0.64755 4.564 9.0206-5.3204 3.1723 10.446 0.49788 5.2135 7.3904 2.1615-2.2408 6.3608 0.81179 3.7834 5.3503-1.1142 2.5553-2.0083 0.67714-6.385-5.3389-2.5396-0.6457-7.3722-4.3932-0.8881-1.4367-8.0446 0.0231-5.8927 8.4494-0.0909-8.7286-7.3624-7.0203 0.32547 0.093 6.8548-2.8277-0.81537 0.0221-6.5143z"
+       id="path805" />
+    <path
+       d="m211.55 318.65-5.5955 7.4294 0.75815 7.4868-3.6037 13.441 8.493-6.0901 2.1754-9.1392 8.292-6.3294z"
+       id="path807" />
+    <path
+       d="m227.89 328.65-2.7169 5.835 2.8075 4.465 3.2384-6.562z"
+       id="path809" />
+    <path
+       d="m215.88 244.73 1.1408 1.471-5.3537 8.9228 4.4397-0.0551 6.5675 4.6952 3.9432 1.7789 12.453 0.25081 10.012 8.341 3.733-2.0297 3.712 5.0112 7.5482 0.49142 15.913 3.4482 6.5213-5.9314 5.8363-1.6458 5.3956-3.1751 13.999-0.0982 2.8524-6.0222 12.051 29.169 8.0063 4.517 14.368 21.15 10.472 0.0732 12.498 11.506 18.49 0.57828 12.872 15.217 3.0956-1.5189 15.138 11.681 14.686 1.9368 6.9567 8.969 1.0118 2.3662 0.11292 1.2764 5.601 0.17008 15.759 14.167 3.4496-2.6343-19.906-13.315-3.2023-5.8346-35.247-21.397-4.3036-9.5197 12.448 0.96579-0.4784-12.304 7.9947 8.1032 11.305 5.103-12.967-14.737 17.285 3.9637-4.3895-7.0518 13.318 7.3636-6.8298-5.837-3.2033-6.0619-7.3468-6.9254-11.475-3.911-11.471 8.669-8.2971 2.8784-4.6568-1.0192-2.0242-5.5432 8.3235-5.0462 8.2583-11.415-2.6007-7.6903-8.0405-8.585-3.5692 5.853-2.4321 16.608-11.006-5.8627-0.0508 6.8097-17.808-0.0776-0.27569-6.0166-3.5492-5.751 6.4675-8.9195-4.24-7.7313-1.9419-12.285-0.93776-1.3028-4.2019-2.0909-22.861 1.7035-12.081-4.2325-7.8485 2.6289-9.932-4.585-2.8248-10.493-3.8748 8.6427-8.5496-6.6997-0.31739 9.2299-7.8108-6.7117-1.4834 1.3913-4.2648 2.8198-1.3147-0.46316-14.635-0.13959-14.332-2.8551-11.794-13.078-10.383 6.6127-0.57086 2.8701-4.1457 4.2109z"
+       id="path811" />
+    <path
+       d="m240.95 310.43-0.25163 0.7701 0.78365 0.0369-0.0154 0.70047-6.3207 5.391 0.0957 1.0355 4.0485 2.6097 2.2682 4.2164 0.84118 8.0234 2.9771-3.9789 1.0026-0.42233 1.9387 14.537 0.42971-23.9-6.4032-7.2522 0.14337-1.3272z"
+       id="path813" />
+    <path
+       d="m271.82 329.67-0.19796 5.7182 8.2901 12.634-2.2354 4.5522-3.3112 11.54 1.1594 1.6481 6.4445-9.9794 1.3684-0.77784-0.37671-8.2751z"
+       id="path815" />
+    <path
+       d="m270.15 298.05-0.50909 11.31 16.924 12.826-0.72538 4.4051 2.4713 10.26 11.03 1.0273-1.5033 5.7049 4.9448 13.325 19.934 1.1159-0.82404-6.0439-10.655-8.2568 1.7456-5.1198-0.28397-9.9893-3.4912-9.224 2.5795-6.7258 0.0283-13.157-2.6689-10.149-6.0227-0.81437-5.3254 16.023-0.76747-0.0909v-1.406l-9.4868-4.6076-3.1008 6.768-5.3254 1.6546z"
+       id="path817" />
+    <path
+       d="m482.1 225.31-0.71126 15.644 4.2016 7.5591 6.1407 3.9759 5.7222 8.0072-6.1447-27.351-3.258-5.7256 6.6337 7.9442 10.758 7.1484 0.0643-1.9943 10.845 7.6396 8.8491-4.6119 3.7223 5.5055 6.6293 2.1342 5.0819 6.9807 11.364 10.166-0.67419-10.847 5.3 6.1154-1.6577-9.9241 14.145 11.073 7.3864 8.5046 20.099 1.2146 12.87 12.425 21.01-0.92743 1.5046 2.5249-4.3993 3.0434-19.374 4.3618-7.8789 5.8187 11.025 13.551-19.289-7.3154-14.174-12.608-6.2351-0.35989-0.0673 4.1414-5.9082 10.224 1.6684 4.3797-5.9363 10.288-1.1742-10.913-9.232 3.6467 0.36723 6.5131 8.9721 8.4638-7.3204 7.4459-6.2377-15.47 2.2202 17.993-7.4919 10.14 2.4727-10.163-7.5073-15.919-4.7438 14.309-2.0759-16.672 20.707-10.58 20.654-17.87-13.456-0.4322-9.9041-4.0897-9.1254 5.5803-41.13-34.099-7.9488-1.2486-7.8682-6.3603 0.6194 7.2773-5.4327 6.4561 0.12857-3.3695-6.085-7.0804 5.9399-12.329 0.60137-2.5739h1.0739l0.24439-2.2713-1.2957-0.62809 1.4047-10.654z"
+       id="path819" />
+    <path
+       d="m437.24 295.28 18.193 7.5919 7.5528 3.397-2.5767-8.0747z"
+       id="path821" />
+    <path
+       d="m435.87 336.73 1.8414 6.451 7.6486-0.0197 4.348 5.1924 14.248 1.3357 6.715 13.17 1.101 13.834 9.614-6.272 11.767-1.8252 21.493 8.4033 8.3995-6.7264-2.2751-10.076-10.629 1.025-9.137-6.2859-33.641-3.6453-8.7462-6.649-12.232-5.1587z"
+       id="path823" />
+    <path
+       d="m539.75 357.97-13.394 10.986 8.2435 4.4267 9.6115 1.6174 25.438 1.3127-1.8677-3.6629z"
+       id="path825" />
+    <path
+       d="m553.82 341.02-6.2824 9.0369 8.3367 0.59645 5.1671 10.048 14.625 9.1251 4.3509-3.4705-1.3688-10.56-6.9875-0.18437-4.5212-10.038-11.236-0.42165z"
+       id="path827" />
+    <path
+       d="m674.76 314.52 1.1849 4.0208-9.7185 5.4376 0.62751 0.80306-7.343 4.4478-1.0083 2.1768 2.768 7.9067-4.9882 12.614 15.438 15.063-0.53492 5.6166 2.3886-1.023 5.3182 0.12726 0.0914-54.984z"
+       id="path829" />
+    <path
+       d="m181.81 284.91-13.201-2.8089-5.5074 5.7548 6.8891 1.5911 0.35685 8.0428 6.1102 13.018 12.141 2.0479 2.0578-4.8732-6.1383-4.8348-7.7344 0.14544-2.6304-10.795z"
+       id="path831" />
+    <path
+       d="m616.38 338.45 9.8743 9.1123 9.5506 0.14623 6.6467 19.379 14.086 2.8649 2.8743-8.4556-13.194 0.80997 4.9612-14.409-9.126-15.783z"
+       id="path833" />
+    <path
+       d="m148.84 318.46-9.385 1.2799-10.362 9.6224-1.8208 5.4564 4.7931-1.3246 6.2997-7.5735 9.4766-0.47035z"
+       id="path835" />
+    <path
+       d="m226.17 296.85-15.39 9.7628-15.521 1.5888-10.374 11.455 1.3567 25.146 7.4029 2.5741 4.0459-19.632 12.199-12.508 23.219-7.0102 3.015-17.114-6.354 0.1709z"
+       id="path837" />
+  </g>
+  <path
+     d="m477.88 212.91-1.3915 0.55155 0.24334 0.61646 0.88732-0.0426 1.0596-0.80389z"
+     fill="none"
+     id="path841" />
+  <g
+     fill="url(#linearGradient77026)"
+     id="g871">
+    <path
+       d="m233.43 201.54-0.95513 1.7319-0.012 7.6748 7.1969 4.2922z"
+       id="path843" />
+    <path
+       d="m247.94 215.97-0.14253 1.9535 4.9086 3.599-2.0246 5.3765 9.9237 4.6514 6.4961-0.027-9.1175-4.574-3.1919-6.9719 12.2 8.5824-6.6992-12.953z"
+       id="path845" />
+    <path
+       d="m274.95 214.95-0.53432 1.6879 9.18 8.2325 0.92555 7.3287 2.9163-9.8576-6.9079-9.7481-4.2648 2.8198z"
+       id="path847" />
+    <path
+       d="m326.34 228.06 0.28828 7.587 7.4245 7.622 0.67198-4.8518z"
+       id="path849" />
+    <path
+       d="m333.43 244.14-0.4152 15.355 9.18 7.5559-2.0622-16.151 0.47911-1.4279-0.53214-6.1115-3.7537 4.0611z"
+       id="path851" />
+    <path
+       d="m343.86 248.46 0.59273 1.0365 0.86936 5.3539-0.18274 10.705-3.5734 5.5973 7.4314 8.9567 9.1901 0.0364-6.2462-13.856-0.11163-6.5969-3.2144-8.7151-0.18979-2.7278z"
+       id="path853" />
+    <path
+       d="m374.75 277.26-1.7436 0.49789 9.29 6.3095 7.1602 8e-3 1.5748-3.1641-9.5921 0.019z"
+       id="path855" />
+    <path
+       d="m411.49 285.7-3.0657 2.6695-3.8421 2.8005 4.0667 2.8369 7.2927-2.3649 0.17278-3.197-4.4708 0.67707z"
+       id="path857" />
+    <path
+       d="m419.06 274.04-1.5252 6.1227 0.83581 1.3917-3.1881 0.93975 12.314 2.2734 5.0782-1.6917-0.19668-7.9176-4.0301 3.8829-2.6978-7.4957-1.0382-0.19109-0.27713 1.1926z"
+       id="path859" />
+    <path
+       d="m288.35 278.72 3.2353 8.832 12.49 14.211-1.5034-8.5466-4.2056-4.1707-1.1599-5.823 5.0569 2.7465-3.6678-8.6461z"
+       id="path861" />
+    <path
+       d="m494.69 208.19 7.8092 12.858 10.608 4.076-7.6594-9.7857z"
+       id="path863" />
+    <path
+       d="m515.41 244.19 9.0627 6.0611 12.343-0.24737-7.9419-3.6338 0.49566 1.3313z"
+       id="path865" />
+    <path
+       d="m551.46 253.98 6.7834 6.3759 2.9253-1.7113z"
+       id="path867" />
+    <path
+       d="m230.99 265.72-5.3263 7.8512-7.5026 4.8582 11.105 0.0254z"
+       id="path869" />
+  </g>
+</svg>
