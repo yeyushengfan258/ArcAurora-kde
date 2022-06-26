@@ -38,6 +38,7 @@ prompt () {
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
   prompt -i "\n * Install ArcAurora-dark in ${THEME_DIR}... "
+  [[ -d "${THEME_DIR}/ArcAurora-dark" ]] && rm -rf "${THEME_DIR}/ArcAurora-dark"
   cp -r "${REO_DIR}/ArcAurora-dark" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
