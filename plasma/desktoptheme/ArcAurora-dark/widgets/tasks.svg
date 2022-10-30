@@ -6,7 +6,7 @@
    version="1.0"
    viewBox="0 0 144 126"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#e6e6e6"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -35,18 +35,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="960"
      id="namedview717"
-     showgrid="false"
-     inkscape:zoom="4.6944035"
-     inkscape:cx="25.668863"
-     inkscape:cy="48.99451"
+     showgrid="true"
+     inkscape:zoom="18.777614"
+     inkscape:cx="40.793255"
+     inkscape:cy="60.018275"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5103" />
+  </sodipodi:namedview>
   <defs
      id="null">
     <style
@@ -886,7 +892,7 @@
        y="80"
        width="26"
        height="2"
-       style="opacity:0.98999999;fill:#58d147;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-4-8"
        class="ColorScheme-ButtonHover"
@@ -894,7 +900,7 @@
        y="82"
        width="26"
        height="1"
-       style="opacity:0.98999999;fill:#58d147;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomleft">
@@ -912,7 +918,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#58d147;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottomright">
@@ -930,7 +936,7 @@
        y="80"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#58d147;fill-opacity:1;stroke:none" />
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-top">
@@ -3984,17 +3990,6 @@
        style="fill:none;stroke:none" />
   </g>
   <g
-     id="normal-center">
-    <rect
-       id="rect4957-0-4-4"
-       class="ColorScheme-Text"
-       x="41"
-       y="46"
-       width="26"
-       height="13"
-       style="color:#31363b;fill:none;stroke:none" />
-  </g>
-  <g
      id="normal-bottom">
     <rect
        id="rect4997-3-7-2"
@@ -4003,7 +3998,7 @@
        y="59"
        width="26"
        height="2"
-       style="fill:#58d147;fill-opacity:1;stroke:none" />
+       style="fill:#58d147;fill-opacity:1;stroke:none;opacity:1" />
     <rect
        id="rect4999-2-1-0"
        class="ColorScheme-Text"
@@ -4011,7 +4006,7 @@
        y="61"
        width="26"
        height="1"
-       style="fill:#58d147;fill-opacity:1;stroke:none" />
+       style="fill:#58d147;fill-opacity:1;stroke:none;opacity:1" />
   </g>
   <g
      id="normal-bottomleft">
@@ -4393,5 +4388,29 @@
        width="2"
        height="2"
        style="color:#31363b;fill:none;stroke:none" />
+  </g>
+  <g
+     id="normal-center">
+    <rect
+       id="rect4957-0-4-4"
+       class="ColorScheme-Text"
+       x="41"
+       y="46"
+       width="26"
+       height="13"
+       style="color:#31363b;opacity:0.00100002;fill:#58d147;fill-opacity:1;stroke:none" />
+    <g
+       id="g16841"
+       style="fill:#58d147;fill-opacity:1"
+       transform="matrix(1,0,0,0.23076923,0,45.384615)">
+      <rect
+         id="rect16839"
+         class="ColorScheme-Text"
+         x="44"
+         y="54.666668"
+         width="20"
+         height="4.3333368"
+         style="color:#31363b;fill:#58d147;fill-opacity:1;stroke:none;stroke-width:0.506369;opacity:0.001" />
+    </g>
   </g>
 </svg>
